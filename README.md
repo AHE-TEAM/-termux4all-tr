@@ -21,7 +21,7 @@ Bu proje, Termux için çeşitli paketlerin kolayca kurulmasını sağlar. Aşa�
 
 4. **Kurulum betiğini çalıştırın:**
     ```bash
-    ./t4all.sh
+    ./t4alltr.sh
     ```
 
 ## Notlar
